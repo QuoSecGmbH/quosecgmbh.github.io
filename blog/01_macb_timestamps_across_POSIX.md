@@ -1,4 +1,4 @@
----
+<!---
 title: "MAC(B) Timestamps across POSIX implementations (Linux, OpenBSD, FreeBSD)"
 date: 2019-12-03T13:13:17+02:00
 aliases: [
@@ -6,11 +6,12 @@ aliases: [
 ]
 Author: 
   Name: "Aurelien Thierry"
-  Email: "a.thierry@quosec.net"
   Twitter: "yaps8"
 Categories: ["OS timestamps"]
 Tags: ["POSIX", "Linux", "OpenBSD", "FreeBSD", "timestamps", "forensics"]
----
+-->
+
+# MAC(B) Timestamps across POSIX implementations (Linux, OpenBSD, FreeBSD)
 
 ```
 This blog post was first published in December 2019 on behalf of QuoScient on medium.com:
