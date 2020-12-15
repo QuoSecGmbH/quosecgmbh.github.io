@@ -162,7 +162,7 @@ Default is 2, as explained in **man vfs_timestamp**:
 
 We implemented a test suite to determine, for each operation such as Move, Copy, Read, Execution, Deletion, Directory Listing… how the MACB timestamps are impacted.
 
-This is project os_timestamps: [https://github.com/quoscient/os_timestamps](https://github.com/quoscient/os_timestamps)
+This is project os_timestamps: [https://github.com/QuoSecGmbH/os_timestamps](https://github.com/QuoSecGmbH/os_timestamps)
 
 For instance:
 
@@ -403,7 +403,7 @@ A recursive directory copy (`cp -r src/ dst/`) is:
 ## 3.1 - POSIX
 
 The CSV profile for POSIX was built manually from the specification and is available here:
-* [https://github.com/quoscient/os_timestamps/blob/master/results/2019_11_29/profileos/posix/os_profile.csv](https://github.com/quoscient/os_timestamps/blob/master/results/2019_11_29/profileos/posix/os_profile.csv)
+* [https://github.com/QuoSecGmbH/os_timestamps/blob/master/results/2019_11_29/profileos/posix/os_profile.csv](https://github.com/QuoSecGmbH/os_timestamps/blob/master/results/2019_11_29/profileos/posix/os_profile.csv)
 
 `*` is an additional symbol for when POSIX leaves a choice to the implementation
 
@@ -425,8 +425,8 @@ The second table focuses on directory operations: dir listing, what happens to a
 
 ![Linux MACB Timestamps](../resources/01/linux_macb.png)
 
-* Full size PDF: [https://github.com/quoscient/os_timestamps/releases/download/2019_12_03/linux_macb.pdf](https://github.com/quoscient/os_timestamps/releases/download/2019_12_03/linux_macb.pdf)
-* CSV result: [https://github.com/quoscient/os_timestamps/blob/master/results/2019_11_29/profileos/linux/os_profile_results.csv](https://github.com/quoscient/os_timestamps/blob/master/results/2019_11_29/profileos/linux/os_profile_results.csv)
+* Full size PDF: [https://github.com/QuoSecGmbH/os_timestamps/releases/download/2019_12_03/linux_macb.pdf](https://github.com/QuoSecGmbH/os_timestamps/releases/download/2019_12_03/linux_macb.pdf)
+* CSV result: [https://github.com/QuoSecGmbH/os_timestamps/blob/master/results/2019_11_29/profileos/linux/os_profile_results.csv](https://github.com/QuoSecGmbH/os_timestamps/blob/master/results/2019_11_29/profileos/linux/os_profile_results.csv)
 
 ## 3.3 - OpenBSD
 ### Setup
@@ -440,8 +440,8 @@ The operation “**Dir**: Dir Moved into (Local)” describes the MAC changes to
 
 ![OpenBSD MAC(B) Timestamps](../resources/01/openbsd_mac.png)
 
-* Full size PDF: [https://github.com/quoscient/os_timestamps/releases/download/2019_12_03/openbsd_mac.pdf](https://github.com/quoscient/os_timestamps/releases/download/2019_12_03/openbsd_mac.pdf)
-* CSV result: [https://github.com/quoscient/os_timestamps/blob/master/results/2019_11_29/profileos/openbsd/os_profile_results.csv](https://github.com/quoscient/os_timestamps/blob/master/results/2019_11_29/profileos/openbsd/os_profile_results.csv)
+* Full size PDF: [https://github.com/QuoSecGmbH/os_timestamps/releases/download/2019_12_03/openbsd_mac.pdf](https://github.com/QuoSecGmbH/os_timestamps/releases/download/2019_12_03/openbsd_mac.pdf)
+* CSV result: [https://github.com/QuoSecGmbH/os_timestamps/blob/master/results/2019_11_29/profileos/openbsd/os_profile_results.csv](https://github.com/QuoSecGmbH/os_timestamps/blob/master/results/2019_11_29/profileos/openbsd/os_profile_results.csv)
 
 ## 3.4 - FreeBSD
 ### Setup
@@ -453,8 +453,8 @@ The operation “**Dir**: Dir Moved into (Local)” describes the MAC changes to
 
 ![FreeBSD MACB Timestamps](../resources/01/freebsd_macb.png)
 
-* Full size PDF: [https://github.com/quoscient/os_timestamps/releases/download/2019_12_03/freebsd_macb.pdf](https://github.com/quoscient/os_timestamps/releases/download/2019_12_03/freebsd_macb.pdf)
-* CSV result: [https://github.com/quoscient/os_timestamps/blob/master/results/2019_11_29/profileos/freebsd/os_profile_results.csv](https://github.com/quoscient/os_timestamps/blob/master/results/2019_11_29/profileos/freebsd/os_profile_results.csv)
+* Full size PDF: [https://github.com/QuoSecGmbH/os_timestamps/releases/download/2019_12_03/freebsd_macb.pdf](https://github.com/QuoSecGmbH/os_timestamps/releases/download/2019_12_03/freebsd_macb.pdf)
+* CSV result: [https://github.com/QuoSecGmbH/os_timestamps/blob/master/results/2019_11_29/profileos/freebsd/os_profile_results.csv](https://github.com/QuoSecGmbH/os_timestamps/blob/master/results/2019_11_29/profileos/freebsd/os_profile_results.csv)
 
 # Conclusion
 
