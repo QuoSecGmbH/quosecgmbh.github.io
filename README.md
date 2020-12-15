@@ -1,7 +1,7 @@
 # POSIX and OS timestamps
-* Testing updates of POSIX timestamps (2020):
-  * [blog/01_macb_timestamps_across_POSIX.md](blog/01_macb_timestamps_across_POSIX.md)
 * MAC(B) Timestamps across POSIX implementations (Linux, OpenBSD, FreeBSD) (2019):
+  * [blog/01_macb_timestamps_across_POSIX.md](blog/01_macb_timestamps_across_POSIX.md)
+* Testing updates of POSIX timestamps (2020):
   * [blog/02_Testing_POSIX.md](blog/02_Testing_POSIX.md)
 
 
