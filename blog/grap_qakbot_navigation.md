@@ -1,4 +1,4 @@
----
+<!---
 title: "Navigating QakBot samples with grap"
 date: 2020-09-04T09:00:00+02:00
 aliases: [
@@ -12,7 +12,10 @@ Categories: ["Reverse Engineering"]
 Tags: ["grap", "qakbot", "Malware"]
 twitterImage: ../resources/qakbot_grap/navigation_IDA.png
 draft: false
----
+-->
+
+# Navigating QakBot samples with grap"
+
 grap is our tool to match binaries at the assembly code level, matching control flow graphs: https://github.com/QuoSecGmbH/grap/
 
 <!--grap can be used for malware analysis through the IDA plugin, through the python3 bindings or directly as a command-line tool.-->
