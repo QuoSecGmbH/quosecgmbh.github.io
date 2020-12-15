@@ -14,7 +14,7 @@ twitterImage: ../resources/qakbot_grap/navigation_IDA.png
 draft: false
 -->
 
-# Navigating QakBot samples with grap"
+# Navigating QakBot samples with grap
 
 grap is our tool to match binaries at the assembly code level, matching control flow graphs: https://github.com/QuoSecGmbH/grap/
 
