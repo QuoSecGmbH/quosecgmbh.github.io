@@ -14,6 +14,8 @@ twitterImage: ../resources/qakbot_grap/strings_IDA6.png
 draft: false
 -->
 
+> Published: September 10, 2020
+
 # grap: Automating QakBot strings decryption
 
 Our [last grap post](grap_qakbot_navigation.md) demonstrated on how to use grap to create and find patterns within QakBot samples.
