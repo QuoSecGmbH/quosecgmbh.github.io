@@ -424,7 +424,7 @@ It is thus possible to compute `microtime()` by getting `nanotime()` through `cl
 
 The most generic way the get the "current time" used for timestamp updates is simply to open, modify and close an existing file, then use `stat(file)` to get its updated M timestamp.
 
-This technical is not recommended because it modifies the filesystem itself, which could lead to unwanted side effects like triggering updates to timestamps that were solely marked for update.
+This technique is not recommended because it modifies the filesystem itself, which could lead to unwanted side effects like triggering updates to timestamps that were solely marked for update.
 
 We use this solution for OpenBSD.
 
