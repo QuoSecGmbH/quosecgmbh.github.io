@@ -11,3 +11,8 @@
   * [blog/grap_qakbot_navigation.md](blog/grap_qakbot_navigation.md)
 * Tutorial (2020): Automating strings decryption (focus on IDA and python bindings)
   * [blog/grap_qakbot_strings.md](blog/grap_qakbot_strings.md)
+
+
+
+<script data-goatcounter="https://quosecgmbh.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
