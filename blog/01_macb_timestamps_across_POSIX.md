@@ -494,3 +494,8 @@ os_timestamps — https://github.com/QuoSecGmbH/os_timestamps
 `We used the POSIX specification C181 (2018), its  SHA256 is 6c5a6893c6abfc7255fd7755040090ff0283f95e02300a07f07133a6648ae1fc`
 
 [3] Understanding EXT4 (Part 2): Timestamps (SANS)— https://digital-forensics.sans.org/blog/2011/03/14/digital-forensics-understanding-ext4-part-2-timestamps
+
+
+
+<script data-goatcounter="https://quosecgmbh.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
