@@ -555,3 +555,7 @@ The two other tests simply check that clocks are incremental.
 
 POSIX specifies many timestamp-related behavior. However the two-step update process (marked for update, updated) and the imprecision on what is "current time" for updates leave room for implementation differences and makes testing them from userland not straightforward.
 
+
+
+<script data-goatcounter="https://quosecgmbh.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
