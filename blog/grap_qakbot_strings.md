@@ -327,3 +327,7 @@ More documentation on grap can be found here:
 * Install (IDA plugin): https://github.com/QuoSecGmbH/grap/blob/master/IDA.md
 * Pattern syntax: https://github.com/QuoSecGmbH/grap/releases/download/v1.1.0/grap_graphs.pdf
 * Syntax highlighting (vim): https://github.com/QuoSecGmbH/grap/blob/master/doc/syntax_highlighting.md
+
+
+<script data-goatcounter="https://quosecgmbh.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
